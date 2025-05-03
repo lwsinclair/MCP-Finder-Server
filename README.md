@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yiye-mcp-finder-server-badge.png)](https://mseep.ai/app/yiye-mcp-finder-server)
+
 # MCP Finder Server
 
 [![smithery badge](https://smithery.ai/badge/@yiye/mcp-finder-server)](https://smithery.ai/server/@yiye/mcp-finder-server)
